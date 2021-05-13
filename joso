@@ -5,7 +5,7 @@
    "author":"Kurano",
    "cover":"https://i.imgur.com/Cuh28a1.png",
    "chapters":{
-      "1":{
+      "01":{
          "title":"Chapter 1",
          "volume":"",
          "groups":{
@@ -13,7 +13,7 @@
          },
          "last_updated":"1620940253"
       },
-      "2":{
+      "02":{
          "title":"Chapter 2",
          "volume":"",
          "groups":{
@@ -21,7 +21,7 @@
          },
          "last_updated":"1620940253"
       },
-      "3":{
+      "03":{
          "title":"Chapter 3",
          "volume":"",
          "groups":{
@@ -29,7 +29,7 @@
          },
          "last_updated":"1620940253"
       },
-      "3.5":{
+      "03.5":{
          "title":"Chapter 3.5",
          "volume":"",
          "groups":{
@@ -37,7 +37,7 @@
          },
          "last_updated":"1620940253"
       },
-      "4":{
+      "04":{
          "title":"Chapter 4",
          "volume":"",
          "groups":{
@@ -45,7 +45,7 @@
          },
          "last_updated":"1620940253"
       },
-      "5":{
+      "04.1":{
          "title":"Chapter 4.1",
          "volume":"",
          "groups":{
@@ -53,7 +53,7 @@
          },
          "last_updated":"1620940253"
       },
-      "Chapter 5":{
+      "05":{
          "title":"Chapter 5",
          "volume":"",
          "groups":{
@@ -61,7 +61,7 @@
          },
          "last_updated":"1620940253"
       },
-      "6":{
+      "06":{
          "title":"Chapter 6",
          "volume":"",
          "groups":{
@@ -69,7 +69,7 @@
          },
          "last_updated":"1620940253"
       },
-      "7":{
+      "07":{
          "title":"Chapter 7",
          "volume":"",
          "groups":{
@@ -77,7 +77,7 @@
          },
          "last_updated":"1620940253"
       },
-      "8":{
+      "08":{
          "title":"Chapter 8",
          "volume":"",
          "groups":{
@@ -85,7 +85,7 @@
          },
          "last_updated":"1620940253"
       },
-      "9":{
+      "09":{
          "title":"Chapter 9",
          "volume":"",
          "groups":{
