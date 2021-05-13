@@ -29,8 +29,8 @@
          },
          "last_updated":"1620940253"
       },
-      "03.5":{
-         "title":"Chapter 3.5",
+      "03.1":{
+         "title":"Chapter 3.1",
          "volume":"",
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/DfqlOIE/"
@@ -61,6 +61,14 @@
          },
          "last_updated":"1620940253"
       },
+      "05.5":{
+         "title":"Chapter 5.5",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/Cmi4kZQ/"
+         },
+         "last_updated":"1620940253"
+      },
       "06":{
          "title":"Chapter 6",
          "volume":"",
@@ -74,6 +82,14 @@
          "volume":"",
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/WYDq06p/"
+         },
+         "last_updated":"1620940253"
+      },
+      "07.1":{
+         "title":"Chapter 7.1",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/XXU1hMd/"
          },
          "last_updated":"1620940253"
       },
@@ -114,6 +130,14 @@
          "volume":"",
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/TUoMCr3/"
+         },
+         "last_updated":"1620940253"
+      },
+      "11.2":{
+         "title":"Chapter 11.2",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/FWkIVgo/"
          },
          "last_updated":"1620940253"
       },
