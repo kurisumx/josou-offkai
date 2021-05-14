@@ -1,0 +1,65 @@
+{
+   "title":"Josou-shite Off-Kai ni Sanka shite mita.",
+   "description":"A story of 4 very particular people who hang out to enjoy sweets in coffee shops.",
+   "artist":"Kurano",
+   "author":"Kurano",
+   "cover":"https://i.imgur.com/GiGUbGh.jpg",
+   "chapters":{
+      "04":{
+         "title":"Lemon is Bisexual",
+         "volume":"1",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/Cfhr2Ad/"
+         },
+         "last_updated":"1620940253"
+      },
+      "06":{
+         "title":"Crossdressing Boys and White Day",
+         "volume":"1",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/iGeqT9r/"
+         },
+         "last_updated":"1620940253"
+      },
+      "10":{
+         "title":"Chapter 10",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/aSMXMAS/"
+         },
+         "last_updated":"1620940253"
+      },
+      "11":{
+         "title":"Chapter 11",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/xyBFJdN/"
+         },
+         "last_updated":"1621032540"
+      },
+      "12":{
+         "title":"Chapter 12",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/6BN51Dr/"
+         },
+         "last_updated":"1621032540"
+      },
+      "13":{
+         "title":"Chapter 13",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/lVXaDCS/"
+         },
+         "last_updated":"1621032540"
+      },
+      "14":{
+         "title":"Chapter 14",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/nhLGYuE/"
+         },
+         "last_updated":"1621032540"
+      }
+   }
+}
