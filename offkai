@@ -99,7 +99,15 @@
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/S3B8l05/"
          },
-         "last_updated":"1624824208"
+         "last_updated":"1624819913"
+      },
+      "19":{
+         "title":"Chapter 19",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/OidCn2R/"
+         },
+         "last_updated":"1624940193"
       }
    }
 }
