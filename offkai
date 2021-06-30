@@ -108,6 +108,22 @@
             "ElPsyKongroo":"/proxy/api/imgur/chapter/OidCn2R/"
          },
          "last_updated":"1624940193"
+      },
+      "19.5":{
+         "title":"A Costly One",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/kEG8Vyg/"
+         },
+         "last_updated":"1625022022"
+      },
+      "20":{
+         "title":"Chapter 20",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/KrB3qPZ/"
+         },
+         "last_updated":"1625022022"
       }
    }
 }
