@@ -4,5 +4,16 @@
   "artist": "Kurano",
   "author": "Kurano",
   "cover": "https://i.imgur.com/GiGUbGh.jpg\"",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1665368974",
+      "groups": {
+        "ElPsyKongroo": [
+          "https://imgur.com/a/juYcRQL"
+        ]
+      }
+    }
+  }
 }
