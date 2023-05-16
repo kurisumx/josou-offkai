@@ -62,7 +62,7 @@
          "last_updated":"1604286441"
       },
       "7":{
-         "title":"Chapter 8",
+         "title":"Chapter 7",
          "volume":"1",
          "groups":{
             "ElPsyKongroo":"/proxy/api/imgur/chapter/u4sd692/"
@@ -492,6 +492,14 @@
             "ElPsyKongroo":"/proxy/api/imgur/chapter/8B5fddu/"
          },
          "last_updated":"1684050179"
+      },
+      "55":{
+         "title":"Chapter 55",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/CXUYrmw/"
+         },
+         "last_updated":"1684217254"
       }
    }
 }
